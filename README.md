@@ -16,6 +16,9 @@ rsync -avz --exclude 'node_modules' --exclude '.git' --exclude '.env' \
 
 For Windows
 scp -i ~/.ssh/ph-lance-virtual-windows.pem -r . ubuntu@ec2-13-239-6-152.ap-southeast-2.compute.amazonaws.com:~/app
+
+Running the app
+ssh -i "~/.ssh/ph-lance-virtual-windows.pem" ubuntu@ec2-13-239-6-152.ap-southeast-2.compute.amazonaws.com
 ```
 
 # 2. AWS Lambda
