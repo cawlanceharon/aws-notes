@@ -4,8 +4,19 @@
 Purpose: Provides virtual servers for running applications.
 Use case: Hosting your Node.js backend or microservices on EC2 instances with full control over the server environment.
 
+# Guide
+```
 # Deploying Full Stack Apps to AWS EC2 with SQL Databases
 https://www.sammeechward.com/deploying-full-stack-js-to-aws-ec2
+
+For ubuntu
+rsync -avz --exclude 'node_modules' --exclude '.git' --exclude '.env' \
+-e "ssh -i ~/.ssh/ph-lance-virtual-windows.pem" \
+. ubuntu@ec2-13-239-6-152.ap-southeast-2.compute.amazonaws.com:~/app
+
+For Windows
+scp -i ~/.ssh/ph-lance-virtual-windows.pem -r . ubuntu@ec2-13-239-6-152.ap-southeast-2.compute.amazonaws.com:~/app
+```
 
 # 2. AWS Lambda
 Purpose: Serverless compute service that runs code in response to events.
