@@ -29,6 +29,12 @@ Use case: Running Node.js functions without provisioning servers (great for even
 Purpose: Scalable object storage.
 Use case: Storing and serving static assets (like images, videos), backups, or even application logs for your Node.js application.
 
+# Guide
+```
+# Simple tutorial
+https://www.youtube.com/watch?v=MH01PNZLR98&t=8s
+```
+
 # 4. Amazon RDS (Relational Database Service)
 Purpose: Managed relational databases like MySQL, PostgreSQL, and others.
 Use case: Hosting relational databases for your Node.js application in a scalable and managed environment.
