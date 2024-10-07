@@ -37,15 +37,6 @@ https://github.com/cawlanceharon/aws-lambda
 Purpose: Scalable object storage.
 Use case: Storing and serving static assets (like images, videos), backups, or even application logs for your Node.js application.
 
-# Guide
-```
-# Simple tutorial
-https://www.youtube.com/watch?v=MH01PNZLR98&t=8s
-
-Project
-https://github.com/cawlanceharon/event-driven-app
-```
-
 # 4. Amazon RDS (Relational Database Service)
 Purpose: Managed relational databases like MySQL, PostgreSQL, and others.
 Use case: Hosting relational databases for your Node.js application in a scalable and managed environment.
@@ -66,7 +57,11 @@ Use case: Sending notifications or triggering events in a distributed system fro
 Purpose: Message queuing service.
 Use case: Managing tasks asynchronously in a Node.js application, queuing up tasks like background jobs, and decoupling systems.
 
+# Guide
 ```
+# Simple tutorial
+https://www.youtube.com/watch?v=MH01PNZLR98&t=8s
+
 Project
 https://github.com/cawlanceharon/event-driven-app
 ```
