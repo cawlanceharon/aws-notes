@@ -33,6 +33,9 @@ Use case: Storing and serving static assets (like images, videos), backups, or e
 ```
 # Simple tutorial
 https://www.youtube.com/watch?v=MH01PNZLR98&t=8s
+
+Project
+https://github.com/cawlanceharon/event-driven-app
 ```
 
 # 4. Amazon RDS (Relational Database Service)
