@@ -66,6 +66,11 @@ Use case: Sending notifications or triggering events in a distributed system fro
 Purpose: Message queuing service.
 Use case: Managing tasks asynchronously in a Node.js application, queuing up tasks like background jobs, and decoupling systems.
 
+```
+Project
+https://github.com/cawlanceharon/event-driven-app
+```
+
 # 9. AWS Elastic Beanstalk
 Purpose: Managed platform for deploying and scaling web applications and services.
 Use case: Simplified deployment of Node.js applications without needing to manage the infrastructure (automatic scaling and monitoring included).
