@@ -25,6 +25,14 @@ ssh -i "~/.ssh/ph-lance-virtual-windows.pem" ubuntu@ec2-13-239-6-152.ap-southeas
 Purpose: Serverless compute service that runs code in response to events.
 Use case: Running Node.js functions without provisioning servers (great for event-driven architectures like APIs or background tasks).
 
+```
+Tutorials
+https://www.youtube.com/watch?v=3Ar1ABlD_Vs
+
+Project
+https://github.com/cawlanceharon/aws-lambda
+```
+
 # 3. Amazon S3 (Simple Storage Service)
 Purpose: Scalable object storage.
 Use case: Storing and serving static assets (like images, videos), backups, or even application logs for your Node.js application.
