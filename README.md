@@ -50,6 +50,14 @@ Use case: Hosting relational databases for your Node.js application in a scalabl
 Purpose: Fully managed NoSQL database service.
 Use case: Storing non-relational data with low-latency performance (great for highly scalable applications using Node.js).
 
+```
+Tutorials
+https://www.youtube.com/watch?v=FQrN5aJWa_U
+
+Project
+https://github.com/cawlanceharon/aws-dynamodb
+```
+
 # 6. Amazon API Gateway
 Purpose: API management and routing service.
 Use case: Building and managing RESTful or WebSocket APIs that trigger your Node.js functions (especially when used with AWS Lambda).
