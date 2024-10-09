@@ -87,6 +87,14 @@ Use case: Simplified deployment of Node.js applications without needing to manag
 Purpose: Monitoring and observability service.
 Use case: Monitoring the performance and logs of your Node.js backend, including setting up alarms for various metrics (e.g., server CPU, memory usage).
 
+```
+Tutorial
+https://www.youtube.com/watch?v=Yxl7e88cTAQ&t=1s
+
+Project
+https://github.com/cawlanceharon/aws-cloudwatch
+```
+
 # 11. AWS Secrets Manager
 Purpose: Manages secrets like API keys, passwords, and database credentials.
 Use case: Storing and securely managing sensitive configuration data for your Node.js backend.
