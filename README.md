@@ -111,6 +111,11 @@ Use case: Running Node.js applications inside Docker containers without managing
 Purpose: Managed Redis and Memcached service.
 Use case: Caching frequently used data to reduce latency and increase performance for your Node.js application.
 
+```
+Project
+https://github.com/cawlanceharon/aws-redis
+```
+
 # 15. AWS Step Functions
 Purpose: Serverless orchestration of AWS services.
 Use case: Managing workflows and automating long-running processes in a Node.js backend.
